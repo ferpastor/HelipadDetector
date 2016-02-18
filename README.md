@@ -1,0 +1,2 @@
+# HelipadDetector
+HelipadDetector class
